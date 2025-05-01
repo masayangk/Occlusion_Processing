@@ -4,7 +4,7 @@
 次のコマンドを実行
 ```bash
 cd
-git clone http://tfsv.tasakilab:5051/git/kato-24/Occlusion_Processing.git
+git clone https://github.com/masayangk/Occlusion_Processing
 ```
 
 ### 2. VSCodeをセットアップ
@@ -24,7 +24,7 @@ VSCodeの右下に表示される「コンテナで再度開く」をクリッ�
 
 ### Pipパッケージのインストール
 ```bash
-pip install git+http://tfsv.tasakilab:5051/git/kato-24/Occlusion_Processing.git
+pip install git+https://github.com/masayangk/Occlusion_Processing
 ```
 または
 ```bash
